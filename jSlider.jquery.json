@@ -10,10 +10,6 @@
         "name": "Haikson",
         "url": "http://www.haikson.com/"
     },
-    "maintainers": [
-        {
-        }
-    ],
     "licenses": [
         {
             "type": "MIT",
