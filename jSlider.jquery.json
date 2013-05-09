@@ -1,0 +1,30 @@
+{
+    "name": "jSlider",
+    "title": "jQuery Slider",
+    "description": "jQuery plugin for create any slider.",
+    "keywords": [
+        "slider"
+    ],
+    "version": "0.1.1",
+    "author": {
+        "name": "Haikson",
+        "url": "http://www.haikson.com/"
+    },
+    "maintainers": [
+        {
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/Haikson/jSlider/issues",
+    "homepage": "https://github.com/Haikson/jSlider",
+    "docs": "https://github.com/Haikson/jSlider",
+    "download": "http://code.jquery.com/#jSlider",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
